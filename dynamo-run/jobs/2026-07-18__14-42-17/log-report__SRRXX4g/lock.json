@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "task": {
+        "name": "log-report",
+        "type": "local",
+        "digest": "sha256:5dab02f13fde0c50f5e868b54e74aa8f2bb279c2a33e89dd4c74070acbfd5592",
+        "source": "dynamo-run",
+        "path": "log-report"
+    },
+    "install_only": false,
+    "timeout_multiplier": 1.0,
+    "agent": {
+        "name": "oracle",
+        "skills": [],
+        "extra_allowed_hosts": [],
+        "kwargs": {},
+        "mcp_servers": []
+    },
+    "skills": [],
+    "environment": {
+        "type": "docker",
+        "force_build": false,
+        "delete": true,
+        "cpu_enforcement_policy": "auto",
+        "memory_enforcement_policy": "auto",
+        "extra_docker_compose": [],
+        "kwargs": {},
+        "extra_allowed_hosts": []
+    },
+    "verifier": {
+        "disable": false
+    }
+}

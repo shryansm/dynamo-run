@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "log-report",
+        "source": "dynamo-run"
+    },
+    "trial_name": "log-report__rTZMcK5",
+    "trials_dir": "jobs/2026-07-18__14-16-28",
+    "agent": {
+        "name": "nop"
+    },
+    "job_id": "72102583-d7b0-4a93-b1d1-f35d78ca0574"
+}

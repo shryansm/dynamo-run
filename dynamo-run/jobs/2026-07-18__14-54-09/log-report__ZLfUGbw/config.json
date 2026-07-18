@@ -1,0 +1,9 @@
+{
+    "task": {
+        "path": "log-report",
+        "source": "dynamo-run"
+    },
+    "trial_name": "log-report__ZLfUGbw",
+    "trials_dir": "jobs/2026-07-18__14-54-09",
+    "job_id": "47347cc5-3e02-4ec3-bbdc-082f114e530d"
+}
